@@ -1,0 +1,17 @@
+[theme]
+base = "dark"
+primaryColor = "#60A5FA"
+backgroundColor = "#0B1020"
+secondaryBackgroundColor = "#151C2E"
+textColor = "#E6EDF7"
+borderColor = "#2A3448"
+font = "sans serif"
+baseRadius = "medium"
+paddingTop = "1rem"
+paddingBottom = "2rem"
+chartCategoricalColors = ["#49C38A", "#F4C84A", "#F39A38", "#EE5F5A", "#4B9BFA"]
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#111827"
+secondaryBackgroundColor = "#192235"
