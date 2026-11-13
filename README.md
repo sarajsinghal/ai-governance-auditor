@@ -2,6 +2,8 @@
 
 A portfolio-grade Streamlit MVP for traceable evidence reviews across NIST AI RMF, ISO/IEC 42001, the EU AI Act, and OWASP Top 10 for LLM Applications. The app combines deterministic evidence indicators with an optional configurable OpenAI-compatible LLM assessment, stores audits in SQLite, and exports CSV/PDF reports.
 
+**Live app:** https://ai-governance-auditor.streamlit.app/
+
 > **Assessment aid only.** This software does not provide legal advice, independent assurance, certification, conformity assessment, or a definitive compliance result. A control's `pass` means only that the configured assessment judged the supplied evidence supportive. Review original artifacts with competent domain, standards, security, and legal professionals.
 
 ## Portfolio fit
