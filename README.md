@@ -1,14 +1,14 @@
 # AI Governance & Compliance Auditor
 
-A portfolio-grade Streamlit MVP for traceable evidence reviews across NIST AI RMF, ISO/IEC 42001, the EU AI Act, and OWASP Top 10 for LLM Applications. The app combines deterministic evidence indicators with an optional configurable OpenAI-compatible LLM assessment, stores audits in SQLite, and exports CSV/PDF reports.
+A Streamlit application for organizing evidence reviews against the NIST AI Risk Management Framework, ISO/IEC 42001, the EU AI Act, and the OWASP Top 10 for LLM Applications. It combines deterministic indicators with an optional configurable OpenAI-compatible assessment, stores audit records in SQLite, and exports CSV and PDF reports.
 
 **Live app:** https://ai-governance-auditor.streamlit.app/
 
 > **Assessment aid only.** This software does not provide legal advice, independent assurance, certification, conformity assessment, or a definitive compliance result. A control's `pass` means only that the configured assessment judged the supplied evidence supportive. Review original artifacts with competent domain, standards, security, and legal professionals.
 
-## Portfolio fit
+## Scope
 
-The local Codex workspace scan found related Interview Coach, Career Intelligence, content-detection, and LLM security/evaluation projects. This project adds governance evidence management, framework traceability, and audit reporting rather than another user-facing AI agent or attack-test suite. It is self-contained and does not reuse those projects' code or databases.
+The application provides evidence management, framework traceability, and audit reporting. It is maintained as a standalone project.
 
 ## Capabilities
 
